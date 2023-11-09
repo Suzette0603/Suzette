@@ -1,0 +1,96 @@
+.first_division{
+    display: flex;
+    border: 1px solid blue;
+    border-radius: 65px;
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(77, 77, 168);
+    justify-content: center;
+   
+}
+.text_area{
+    padding: 2px;
+    text-align: center;
+    color: white;
+}
+.text_area1{
+    border: 0.5px solid rgb(80, 80, 190);
+    background-color: rgb(80, 80, 190);
+    border-radius: 85px;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    color: white;
+    align-items: center;
+    padding: 0px;
+
+}
+.second_division{
+    display: flex;
+    border: 2px solid white;
+    border-left: 1px;
+    border-right: 0px;
+    border-radius:27px 65px 65px 27px;
+    width: 360px;
+    height: 420px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 100px;
+    padding: 1px;
+    background-color: rgb(240, 197, 203);
+    justify-content: center;
+    overflow: hidden;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.Reaction{
+    border: 2px solid rgb(242, 192, 192);
+    width: 200px;
+    height: 5px;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: bisque;
+    color: lightcoral;
+    
+}
+.Memory{
+    border: 2px solid rgb(242, 192, 192);
+    border-radius: 25px;
+    width: 200px;
+    height: 5px;
+    padding: 20px;
+    background-color: azure;
+    color: lightseagreen;
+}
+.Verbal{
+    border: 2px solid rgb(242, 192, 192);
+    border-radius: 25px;
+    width: 200px;
+    height: 5px;
+    padding: 20px;
+    background-color: aqua;
+    color: lightgoldenrodyellow;
+}
+.Visual{
+    border: 2px solid rgb(242, 192, 192);
+    border-radius: 25px;  
+    width: 200px;
+    height: 5px;
+    background-color: antiquewhite;
+    color: lightskyblue;
+    padding: 20px;
+}
+button{
+    border: 2px solid rgb(242, 192, 192);
+    border-radius: 25px;  
+    width: 170px;
+    height: 30px;
+    background-color: antiquewhite;
+    color: white;
+}
